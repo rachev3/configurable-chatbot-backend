@@ -22,8 +22,8 @@ A flexible, dynamic chatbot backend system built with Node.js, Restify, and WebS
 1. Clone the repository:
 
    ```
-   git clone https://github.com/rachev3/NW-Digital-test.git
-   cd NW-Digital-test
+   git clone https://github.com/rachev3/configurable-chatbot-backend.git
+   cd configurable-chatbot-backend
    ```
 
 2. Install dependencies:
